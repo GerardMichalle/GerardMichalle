@@ -4,17 +4,24 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hlb2ozdnNwamg2aG9iNzk4cTFhdWk0dzk3aGIzbzlwaGhlYWgwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" height="200" />
 </p>
 
-### Welcome to my profile 👩‍💻💻
+# Welcome to my profile 👩‍💻💻
 
-- 🎓 Systems Engineering student at Universidad Privada del Norte  
-- 💻 C# certified and passionate about software development  
-- 🚀 Self-taught, fast learner, and adaptable to new challenges  
-- ⚡ Currently working as an Electronic Technician  
-- 🌐 Aspiring Fullstack Developer  
+🎓 Systems Engineering student at Universidad Privada del Norte
 
-- 🔥 Learning & mastering: HTML, CSS, JavaScript, SQL, Java, C#  
-- 📊 Interested in data libraries and modern technologies  
-- 🎯 Goal: Become a great Software Engineer  
+💻 C# certified with a strong foundation in software development
+
+🚀 Self-taught, fast learner, and adaptable to new challenges
+
+⚡ Currently working as an Electronic Technician
+
+🌐 Aspiring Fullstack Developer with a growing focus on Data Science
+
+🔥 Learning & strengthening skills in: HTML,Python, JavaScript, SQL, PowerBI, C#
+
+📊 Specializing in Data Science, exploring data analysis, libraries, and modern technologies
+
+🎯 Goal: Become a highly skilled Software Engineer with expertise in Data Science
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
