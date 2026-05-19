@@ -14,9 +14,9 @@
 
 ⚡ Currently working as an Electronic Technician
 
-🌐 Aspiring Fullstack Developer with a growing focus on Data Science
+🌐 Aspiring Sotware Enginner
 
-🔥 Learning & strengthening skills in: HTML,Python, JavaScript, SQL, PowerBI, C#
+🔥 Learning & strengthening skills in: Python, JavaScript, SQL, PowerBI, C# , C++ , PANDA 
 
 📊 Specializing in Data Science, exploring data analysis, libraries, and modern technologies
 
