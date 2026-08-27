@@ -106,7 +106,7 @@ Busco construir un perfil sólido que combine **análisis de datos** con una bas
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerard-rengifo-murayari-36486a314/" target="_blank">
+  <a href="https://www.linkedin.com/in/gerard-r-murayari-36486a314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gerard.2023@icloud.com" target="_blank">
